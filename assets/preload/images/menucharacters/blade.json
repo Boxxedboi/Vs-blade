@@ -1,0 +1,10 @@
+{
+	
+	"image": "Menu_Blade",
+	"position": [
+		250,
+		150
+	],
+	"scale": 0.5,
+	"idle_anim": "BladeIdle"
+}

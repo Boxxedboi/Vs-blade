@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Alright you're starting to piss me off.",
+			"boxState": "normal",
+			"portrait": "Blade3",
+			"speed": 0.05
+		},
+		{
+			"expression": "oops",
+			"text": "Boop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "upset",
+			"text": "Let's make this harder for you!",
+			"boxState": "normal",
+			"portrait": "Blade3",
+			"speed": 0.05
+		},
+		{
+			"expression": "upset",
+			"text": "If you miss a single note now, you're soul is MINE!",
+			"boxState": "normal",
+			"portrait": "Blade3",
+			"speed": 0.05
+		},
+		{
+			"expression": "upset",
+			"text": "How does that sound?",
+			"boxState": "normal",
+			"portrait": "Blade3",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "How does that sound?",
+			"boxState": "Bop ba!",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BladeMoving-Stage.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Backround Blade Moving0000" x="0" y="0" width="2470" height="1363"/>
+	<SubTexture name="Backround Blade Moving0001" x="2470" y="0" width="2460" height="1363" frameX="-10" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0002" x="4930" y="0" width="2450" height="1363" frameX="-20" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0003" x="0" y="1363" width="2439" height="1363" frameX="-31" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0004" x="2439" y="1363" width="2429" height="1363" frameX="-41" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0005" x="4868" y="1363" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0006" x="0" y="2726" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0007" x="2424" y="2726" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0008" x="4848" y="2726" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0009" x="0" y="4089" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0010" x="2424" y="4089" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0011" x="4848" y="4089" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0012" x="0" y="5452" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0013" x="2424" y="5452" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0014" x="2424" y="5452" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0015" x="4848" y="5452" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0016" x="0" y="6815" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0017" x="2424" y="6815" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0018" x="4848" y="6815" width="2424" height="1363" frameX="-46" frameY="0" frameWidth="2470" frameHeight="1363"/>
+	<SubTexture name="Backround Blade Moving0023" x="0" y="0" width="2470" height="1363"/>
+</TextureAtlas>

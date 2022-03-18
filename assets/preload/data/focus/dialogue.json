@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "default",
+			"text": "Welcome to my domain, who dares to enter!?",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "default",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "moody",
+			"text": "Who..who the hell are you and why are you here?",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "weary",
+			"text": "A what? ...Singing contest?",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "default",
+			"text": "Boy, don't underestimate me. You have no idea who you're dealing with.",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "default",
+			"text": "Now, why are you really here?",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "boop ba beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "default",
+			"text": "Oh, you're serious?",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		},
+		{
+			"expression": "upset",
+			"text": "Let me just say, you've made a very bad choice right now, I hope you're prepared.",
+			"boxState": "normal",
+			"portrait": "blade",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "bonus content",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"weekBefore": "",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"skull",
+			"bladeSkullEmoji",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"vibes",
+			"blade",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "fuck you"
+}

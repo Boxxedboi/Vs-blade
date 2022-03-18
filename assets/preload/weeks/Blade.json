@@ -1,0 +1,43 @@
+{
+	"storyName": "Death Incarnate",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Blade",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"blade",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Focus",
+			"blade",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Soul",
+			"blade",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Enough",
+			"bladeButPURPLE",
+			[
+				0,
+				9,
+				62
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Blade"
+}
